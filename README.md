@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Md. Sorup Rohan</h1>
 <h3 align="center">An undergraduate student interested in Machine Learning, Deep Learning, Data sciene and Web & app development.</h3>
-<center>
-  <img alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpmbXBtNjluYmlrNzU4bjc2OXd4M3ZoeGk3aDZraDU1NG56ZmZiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
-</center>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soruprohan&label=Profile%20views&color=0e75b6&style=flat" alt="soruprohan" /> </p>
 
