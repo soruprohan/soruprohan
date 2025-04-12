@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Md. Sorup Rohan</h1>
-<h3 align="center">A undergraduate student interested in Machine Learning, Deep Learning, Data sciene and Web & app development.</h3>
+<h3 align="center">An undergraduate student interested in Machine Learning, Deep Learning, Data sciene and Web & app development.</h3>
 
 <img align="right" alt="Coding" width ="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">
 
@@ -9,11 +9,10 @@
 
 - 🌱 I’m currently learning **Neural Networks.**
 
-- 💬 Ask me about **Android, Website development, Database, Data structures and algorithms, Machine Learning & more.**
+- 💬 Ask me about **Android, Web development, Database management, Data structures and algorithms, Machine learning & more.**
 
 - 📫 How to reach me **sorupr5@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
